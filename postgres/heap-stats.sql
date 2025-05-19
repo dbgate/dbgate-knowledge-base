@@ -1,4 +1,5 @@
 -- @title: Heap stats
+-- @folder: PostgreSQL
 
 SELECT
 SUM(heap_blks_read) AS heap_read,
