@@ -1,6 +1,5 @@
 -- @title: Table sizes
 -- @description: Without system databases
--- @folder: PostgreSQL
 
 WITH RECURSIVE pg_inherit(inhrelid, inhparent) AS
     (select inhrelid, inhparent

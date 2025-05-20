@@ -1,6 +1,5 @@
 -- @title: Index usage stats
 -- @description: Indexes with idx_* = 0 may be useless
--- @folder: PostgreSQL
 
 SELECT
 relname AS table_name,

@@ -1,6 +1,5 @@
 -- @title: All elements sizes
 -- @description: Tables, indexes, views, sequences,... in a simple list
--- @folder: PostgreSQL
 
 select
 relkind as type,

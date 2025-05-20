@@ -1,5 +1,4 @@
 -- @title: Table index stats
--- @folder: PostgreSQL
 
 SELECT
 relname AS "table name",

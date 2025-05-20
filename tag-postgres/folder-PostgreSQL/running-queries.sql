@@ -1,5 +1,4 @@
 -- @title: Running queries
--- @folder: PostgreSQL
 
 SELECT pid, age(clock_timestamp(), query_start), datname, usename, query, state
 FROM pg_stat_activity

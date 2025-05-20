@@ -1,6 +1,5 @@
 -- @title: Database Sizes
 -- @description: Without system databases
--- @folder: PostgreSQL
 
 select
 datname as database,
