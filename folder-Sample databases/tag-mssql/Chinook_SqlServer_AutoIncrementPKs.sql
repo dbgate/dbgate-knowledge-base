@@ -14,27 +14,6 @@
 ********************************************************************************/
 
 /*******************************************************************************
-   Drop database if it exists
-********************************************************************************/
-IF EXISTS (SELECT name FROM master.dbo.sysdatabases WHERE name = N'Chinook_AutoIncrement')
-BEGIN
-	ALTER DATABASE [Chinook_AutoIncrement] SET OFFLINE WITH ROLLBACK IMMEDIATE;
-	ALTER DATABASE [Chinook_AutoIncrement] SET ONLINE;
-	DROP DATABASE [Chinook_AutoIncrement];
-END
-
-GO
-
-/*******************************************************************************
-   Create database
-********************************************************************************/
-CREATE DATABASE [Chinook_AutoIncrement];
-GO
-
-USE [Chinook_AutoIncrement];
-GO
-
-/*******************************************************************************
    Create Tables
 ********************************************************************************/
 CREATE TABLE [dbo].[Album]
