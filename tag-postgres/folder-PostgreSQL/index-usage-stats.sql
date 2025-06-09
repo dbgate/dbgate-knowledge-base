@@ -1,5 +1,9 @@
--- @title: Index usage stats
--- @description: Indexes with idx_* = 0 may be useless
+-- >>>
+-- title: Index usage stats
+-- description: Indexes with idx_* = 0 may be useless
+-- autoExecute: true
+-- splitterInitialValue: 20%
+-- <<<
 
 SELECT
 relname AS table_name,

@@ -1,5 +1,9 @@
--- @title: All elements sizes
--- @description: Tables, indexes, views, sequences,... in a simple list
+-- >>>
+-- title: All elements sizes
+-- description: Tables, indexes, views, sequences,... in a simple list
+-- autoExecute: true
+-- splitterInitialValue: 20%
+-- <<<
 
 select
 relkind as type,

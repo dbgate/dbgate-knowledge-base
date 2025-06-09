@@ -1,4 +1,8 @@
--- @title: Heap stats
+-- >>>
+-- title: Heap stats
+-- autoExecute: true
+-- splitterInitialValue: 20%
+-- <<<
 
 SELECT
 SUM(heap_blks_read) AS heap_read,

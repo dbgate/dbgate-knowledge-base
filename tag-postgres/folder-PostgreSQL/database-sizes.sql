@@ -1,5 +1,9 @@
--- @title: Database Sizes
--- @description: Without system databases
+-- >>>
+-- title: Database Sizes
+-- description: Without system databases
+-- autoExecute: true
+-- splitterInitialValue: 20%
+-- <<<
 
 select
 datname as database,

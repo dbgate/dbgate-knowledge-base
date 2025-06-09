@@ -1,5 +1,9 @@
--- @title: Table sizes
--- @description: Without system databases
+-- >>>
+-- name: Table sizes
+-- description: Without system databases
+-- autoExecute: true
+-- splitterInitialValue: 20%
+-- <<<
 
 WITH RECURSIVE pg_inherit(inhrelid, inhparent) AS
     (select inhrelid, inhparent

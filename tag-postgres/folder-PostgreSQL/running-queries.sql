@@ -1,4 +1,9 @@
--- @title: Running queries
+-- >>>
+-- title: Running queries
+-- autoExecute: true
+-- splitterInitialValue: 20%
+-- description: Queries that are currently running, excluding idle ones
+-- <<<
 
 SELECT pid, age(clock_timestamp(), query_start), datname, usename, query, state
 FROM pg_stat_activity

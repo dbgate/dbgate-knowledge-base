@@ -1,4 +1,8 @@
--- @title: Table index stats
+-- >>>
+-- title: Table index stats
+-- autoExecute: true
+-- splitterInitialValue: 20%
+-- <<<
 
 SELECT
 relname AS "table name",
