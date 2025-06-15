@@ -1,15 +1,12 @@
 -- >>>
--- title: Top Tables by size
+-- title: Top Tables by row count
 -- chart-1:
---   title: Table sizes
+--   title: Table row counts
 --   chartType: pie
 --   xdef:
 --     field: Table
 --     transformFunction: identity
 --   ydefs:
---     - aggregateFunction: sum
---       field: Size (KB)
---       title: Size KB
 --     - field: TABLE_ROWS
 --       aggregateFunction: sum
 --       title: TABLE ROWS
