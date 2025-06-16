@@ -1,6 +1,6 @@
 -- >>>
 -- title: Top Tables by size
--- icon: img chart
+-- icon: mdi mdi-chart-pie
 -- chart-1:
 --   title: Table sizes
 --   chartType: pie

@@ -1,7 +1,7 @@
 -- >>>
 -- title: Top Tables by Row Count
 -- selected-chart: 1
--- icon: img chart
+-- icon: mdi mdi-chart-pie
 -- chart-1:
 --   chartType: pie
 --   pieCountLimit: '5'

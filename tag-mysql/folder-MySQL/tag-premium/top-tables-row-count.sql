@@ -1,6 +1,6 @@
 -- >>>
 -- title: Top Tables by row count
--- icon: img chart
+-- icon: mdi mdi-chart-pie
 -- chart-1:
 --   title: Table row counts
 --   chartType: pie
