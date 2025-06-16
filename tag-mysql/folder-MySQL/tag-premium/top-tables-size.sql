@@ -1,6 +1,6 @@
 -- >>>
 -- title: Top Tables by size
--- icon: img-chart
+-- icon: img chart
 -- chart-1:
 --   title: Table sizes
 --   chartType: pie

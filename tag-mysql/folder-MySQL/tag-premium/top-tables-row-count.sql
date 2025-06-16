@@ -1,6 +1,6 @@
 -- >>>
 -- title: Top Tables by row count
--- icon: img-chart
+-- icon: img chart
 -- chart-1:
 --   title: Table row counts
 --   chartType: pie

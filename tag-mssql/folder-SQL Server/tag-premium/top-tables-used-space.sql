@@ -1,7 +1,7 @@
 -- >>>
 -- title: Top Tables by Used Space
 -- selected-chart: 1
--- icon: img-chart
+-- icon: img chart
 -- chart-1:
 --   title: Top Tables by Used Space
 --   chartType: pie
