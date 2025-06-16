@@ -1,5 +1,7 @@
 -- >>>
 -- title: Top Tables
+-- autoExecute: true
+-- splitterInitialValue: 20%
 -- <<<
 
 SELECT
