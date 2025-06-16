@@ -1,16 +1,16 @@
 -- >>>
--- title: Top Tables by row count
+-- title: Top Tables by size
 -- icon: img-chart
 -- chart-1:
---   title: Table row counts
+--   title: Table sizes
 --   chartType: pie
 --   xdef:
 --     field: Table
 --     transformFunction: identity
 --   ydefs:
---     - field: TABLE_ROWS
+--     - field: Size (KB)
 --       aggregateFunction: sum
---       title: TABLE ROWS
+--       title: Size (KB)
 -- selected-chart: 1
 -- autoExecute: true
 -- splitterInitialValue: 20%

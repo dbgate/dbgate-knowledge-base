@@ -1,6 +1,7 @@
 -- >>>
 -- title: Top Tables by Row Count
 -- selected-chart: 1
+-- icon: img-chart
 -- chart-1:
 --   chartType: pie
 --   pieCountLimit: '5'
