@@ -1,5 +1,5 @@
 -- >>>
--- title: Top Tables by size
+-- title: Top Tables
 -- autoExecute: true
 -- splitterInitialValue: 20%
 -- <<<
