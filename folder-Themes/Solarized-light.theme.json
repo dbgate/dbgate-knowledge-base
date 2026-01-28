@@ -1,6 +1,7 @@
 {
   "themeName": "Solarized-light",
   "themeType": "light",
+  "editorTheme": "solarized_light",
   "themeVariables": {
     "--theme-generic-font": "#333333",
     "--theme-generic-font-hover": "#1a1a1a",

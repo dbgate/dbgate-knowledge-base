@@ -1,6 +1,7 @@
 {
   "themeName": "Solarized-dark",
   "themeType": "dark",
+  "editorTheme": "solarized_dark",
   "themeVariables": {
     "--theme-generic-font": "#839496",
     "--theme-generic-font-hover": "#fdf6e3",
