@@ -174,7 +174,7 @@
     "--theme-designer-drag-column-background": "#002b36",
     "--theme-designer-select-column-background": "#073642",
     "--theme-statusbar-background": "#268bd2",
-    "--theme-statusbar-foreground": "#002b36",
+    "--theme-statusbar-foreground": "#fff",
     "--theme-statusbar-background-hover": "#2aa198",
     "--theme-statusbar-button-background": "#073642",
     "--theme-statusbar-button-foreground": "#586e75",
